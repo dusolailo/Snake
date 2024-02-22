@@ -1,6 +1,9 @@
 
 import javax.swing.SwingUtilities;
-
+/**
+ * @version 1.0
+ * @author dusol
+ */
 public class Main {
 
     /**

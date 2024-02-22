@@ -9,7 +9,10 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-
+/**
+ * @version 1.0
+ * @author dusol
+ */
 public class WelcomeScreen extends JPanel {
 
     private static final String ARE_YOU_SURE = "Are you sure?";

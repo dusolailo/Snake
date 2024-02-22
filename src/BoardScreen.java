@@ -10,7 +10,10 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-
+/**
+ * @version 1.0
+ * @author dusol
+ */
 public class BoardScreen extends JPanel {
 
     /**

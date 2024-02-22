@@ -8,7 +8,10 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
-
+/**
+ * @version 1.0
+ * @author dusol
+ */
 //needs massive aesthetic rewrites
 public class PlayerSelectScreen extends JPanel {
 

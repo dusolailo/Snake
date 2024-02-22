@@ -8,7 +8,10 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-
+/**
+ * @version 1.0
+ * @author dusol
+ */
 public class MainWindow extends JFrame {
 
     JPanel cards;
